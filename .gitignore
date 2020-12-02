@@ -130,3 +130,6 @@ dmypy.json
 
 # IDE Specific files
 .idea/
+
+# OS Specific files
+.DS_Store
